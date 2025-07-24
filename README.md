@@ -1,6 +1,6 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+WorldClicker, a Java academic project inspired by the game "Cookie Clicker".
 
 <img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/80d38075-d59c-454d-b5da-5bc511a77260" />
 
